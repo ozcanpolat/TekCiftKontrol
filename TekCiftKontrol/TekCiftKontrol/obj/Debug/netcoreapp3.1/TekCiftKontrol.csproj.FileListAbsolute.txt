@@ -1,0 +1,14 @@
+C:\Users\ozcan\OneDrive\Masaüstü\C# Uygulamalar\TekCiftKontrol\TekCiftKontrol\bin\Debug\netcoreapp3.1\TekCiftKontrol.exe
+C:\Users\ozcan\OneDrive\Masaüstü\C# Uygulamalar\TekCiftKontrol\TekCiftKontrol\bin\Debug\netcoreapp3.1\TekCiftKontrol.deps.json
+C:\Users\ozcan\OneDrive\Masaüstü\C# Uygulamalar\TekCiftKontrol\TekCiftKontrol\bin\Debug\netcoreapp3.1\TekCiftKontrol.runtimeconfig.json
+C:\Users\ozcan\OneDrive\Masaüstü\C# Uygulamalar\TekCiftKontrol\TekCiftKontrol\bin\Debug\netcoreapp3.1\TekCiftKontrol.runtimeconfig.dev.json
+C:\Users\ozcan\OneDrive\Masaüstü\C# Uygulamalar\TekCiftKontrol\TekCiftKontrol\bin\Debug\netcoreapp3.1\TekCiftKontrol.dll
+C:\Users\ozcan\OneDrive\Masaüstü\C# Uygulamalar\TekCiftKontrol\TekCiftKontrol\bin\Debug\netcoreapp3.1\TekCiftKontrol.pdb
+C:\Users\ozcan\OneDrive\Masaüstü\C# Uygulamalar\TekCiftKontrol\TekCiftKontrol\obj\Debug\netcoreapp3.1\TekCiftKontrol.csproj.AssemblyReference.cache
+C:\Users\ozcan\OneDrive\Masaüstü\C# Uygulamalar\TekCiftKontrol\TekCiftKontrol\obj\Debug\netcoreapp3.1\TekCiftKontrol.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ozcan\OneDrive\Masaüstü\C# Uygulamalar\TekCiftKontrol\TekCiftKontrol\obj\Debug\netcoreapp3.1\TekCiftKontrol.AssemblyInfoInputs.cache
+C:\Users\ozcan\OneDrive\Masaüstü\C# Uygulamalar\TekCiftKontrol\TekCiftKontrol\obj\Debug\netcoreapp3.1\TekCiftKontrol.AssemblyInfo.cs
+C:\Users\ozcan\OneDrive\Masaüstü\C# Uygulamalar\TekCiftKontrol\TekCiftKontrol\obj\Debug\netcoreapp3.1\TekCiftKontrol.csproj.CoreCompileInputs.cache
+C:\Users\ozcan\OneDrive\Masaüstü\C# Uygulamalar\TekCiftKontrol\TekCiftKontrol\obj\Debug\netcoreapp3.1\TekCiftKontrol.dll
+C:\Users\ozcan\OneDrive\Masaüstü\C# Uygulamalar\TekCiftKontrol\TekCiftKontrol\obj\Debug\netcoreapp3.1\TekCiftKontrol.pdb
+C:\Users\ozcan\OneDrive\Masaüstü\C# Uygulamalar\TekCiftKontrol\TekCiftKontrol\obj\Debug\netcoreapp3.1\TekCiftKontrol.genruntimeconfig.cache
